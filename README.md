@@ -11,8 +11,8 @@ To run the project
 #### Apk file is also ulploaded in the directory you can install it on your android device
 <br/>
 <div>
-<img src= "https://raw.githubusercontent.com/optimm/Crypsy/master/ss/ss3.jpg" height="400px"/>
-<img src= "https://raw.githubusercontent.com/optimm/Crypsy/master/ss/ss2.jpg" height="400px" />
-<img src= "https://raw.githubusercontent.com/optimm/Crypsy/master/ss/ss1.jpg" height="400px" />
+<img src= "https://raw.githubusercontent.com/optimm/Crypsy/master/ss/ss3.jpg" height="650px"/>
+<img src= "https://raw.githubusercontent.com/optimm/Crypsy/master/ss/ss2.jpg" height="650px" />
+<img src= "https://raw.githubusercontent.com/optimm/Crypsy/master/ss/ss1.jpg" height="650px" />
 
 </div>
